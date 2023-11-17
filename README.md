@@ -12,3 +12,6 @@ git commit : add된 파일들을 바탕으로 새로운 변경사항(작업)을 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea voluptates debitis, necessitatibus tempora numquam repudiandae, est iure tenetur soluta nulla architecto fugit natus, earum quibusdam modi dolores quisquam recusandae. Soluta magnam quis veritatis cupiditate tenetur vitae eaque, voluptas, natus quae quisquam necessitatibus officia autem sequi repellat tempore. Earum exercitationem distinctio et, excepturi repellendus ipsam eos aliquam voluptatibus officia. Nulla assumenda quas, dolores cumque amet omnis eligendi expedita sunt deserunt totam, porro voluptate consectetur, dicta tempore veritatis quis blanditiis.
 
 
+## 없앨 변경사항
+
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea voluptates debitis, necessitatibus tempora numquam repudiandae, est iure tenetur soluta nulla architecto fugit natus, earum quibusdam modi dolores quisquam recusandae. Soluta magnam quis veritatis cupiditate tenetur vitae eaque, voluptas, natus quae quisquam necessitatibus officia autem sequi repellat tempore. Earum exercitationem distinctio et, excepturi repellendus ipsam eos aliquam voluptatibus officia. Nulla assumenda quas, dolores cumque amet omnis eligendi expedita sunt deserunt totam, porro voluptate consectetur, dicta tempore veritatis quis blanditiis. 
